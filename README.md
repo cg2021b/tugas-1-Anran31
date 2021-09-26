@@ -4,20 +4,24 @@
 | -------------- | ----------------- |
 | 05111940000031 | Andika Nugrahanto |
 
-Benda:
+Benda: Gelas Tupperware
+
+### Foto Benda Depan
+
+![depan-atas](img/Gelas-depan.jpg)
 
 ### Foto Benda Depan Atas
 
-![depan-atas](img/depan-atas.jpg)
+![depan-atas](img/Gelas-depan-atas.jpg)
 
 ### Foto Benda Kanan Atas
 
-![kanan-atas](img/kanan-atas.jpg)
+![kanan-atas](img/Gelas-depan-atas.jpg)
 
 ### Foto Benda Belakang Atas
 
-![belakang-atas](img/belakang-atas.jpg)
+![belakang-atas](img/Gelas-depan-atas.jpg)
 
 ### Foto Benda Kiri Atas
 
-![kiri-atas](img/kiri-atas.jpg)
+![kiri-atas](img/Gelas-depan-atas.jpg)
